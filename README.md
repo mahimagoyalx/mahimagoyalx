@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **mahimagoyalx/mahimagoyalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimagoyalx&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimagoyalx&theme=jolly&include_all_commits=true&show_icons=true" alt="mahimagoyalx" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
 
 [![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimagoyalx&theme=jolly&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
