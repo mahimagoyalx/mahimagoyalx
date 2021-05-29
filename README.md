@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimagoyalx&theme=jolly&include_all_commits=true&layout=compact&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimagoyalx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimagoyalx&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
