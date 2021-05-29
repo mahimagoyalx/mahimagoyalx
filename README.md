@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimagoyalx&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats"> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimagoyalx&layout=compact&hide=html&theme=jolly&include_all_commits=true&show_icons=true" alt="mahimagoyalx" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimagoyalxtheme=jolly&include_all_commits=true&show_icons=true" alt="mahimagoyalx" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
